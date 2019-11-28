@@ -1,6 +1,6 @@
 body {
 
-  font: 15px/1.5 Arial, Helvetica, sans-serif;
+  font: 17px/1.5 'Quicksand', sans-serif;
   padding: 0;
   margin: 0;
   background-color: #f4f4f4;
@@ -130,6 +130,7 @@ header a:hover {
   text-align: center;
   width: 30%;
   padding: 10px;
+  font-size: 17px;
 }
 
 #boxes .box img {
@@ -141,15 +142,21 @@ aside#sidebar {
   float:right;
   width: 30%;
   margin-top: 10px;
+
+
+
   }
 
   /* Main-col */
 
-  article #main-col{
+  article#main-col{
     float:left;
     width: 65%;
 
+
   }
+
+
 
 footer {
   padding: 20px;
@@ -157,4 +164,5 @@ footer {
   color: #ffffff;
   background-color: #e8491d;
   text-align: center;
+  font: 17px/1.5 'Quicksand', sans-serif;
 }
