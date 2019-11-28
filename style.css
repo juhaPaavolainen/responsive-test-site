@@ -20,7 +20,7 @@ ul {
 
 .button_1{
   height: 38px;
-  background: #e8491d;
+  background: 	#804db3;
   border: 0;
   padding-left: 20px;
   padding-right: 20px;
@@ -29,7 +29,7 @@ ul {
 
 .dark {
   padding: 15px;
-  background: #35424a;
+  background: #73738c;
   color: #ffffff;
   margin-top: 10px;
   margin-bottom: 10px;
@@ -38,11 +38,11 @@ ul {
 
 /* Header */
 header {
-  background: #35424a;
+  background: linear-gradient(90deg, rgba(22,0,36,1) 44%, rgba(83,76,85,1) 93%);
   color: #ffffff;
   padding-top: 30px;
   min-height: 70px;
-  border-bottom: #e8491d 3px solid;
+  border-bottom: 	#804db3 3px solid;
 }
 
 header a{
@@ -76,7 +76,7 @@ header nav {
 }
 
 header .highlight, header .current a {
-  color: #e8491d;
+  color: 	#804db3;
   font-weight: bold;
 }
 
@@ -88,7 +88,7 @@ header a:hover {
 /* Showcase */
 #showcase {
   min-height: 400px;
-  background: url('../img/showcase.jpg') no-repeat 0 -400px;
+  background: url('../img/blackmac.jpg') no-repeat 0 -200px;
   text-align:center;
   color:#ffffff;
 
@@ -106,7 +106,7 @@ header a:hover {
 #newsletter {
   padding: 15px;
   color:#ffffff;
-  background:#35424a;
+  background:linear-gradient(90deg, rgba(36,80,106,1) 0%, rgba(130,12,12,1) 72%, rgba(252,176,69,1) 100%);
 }
 
 
@@ -162,7 +162,7 @@ footer {
   padding: 20px;
   margin-top: 20px;
   color: #ffffff;
-  background-color: #e8491d;
+  background-color: 	#00001a;
   text-align: center;
-  font: 17px/1.5 'Quicksand', sans-serif;
+
 }
